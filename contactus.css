@@ -1,7 +1,7 @@
 /* Блок, отвечающий за внешний вид панелек для ввода информации*/
 /*Основные панельки для ввода имени,email...*/
 .contactus_input{
-	FONT-SIZE: 11px;
+	FONT-SIZE: 15px;
 	HEIGHT: 18px;
 	border: 1px solid #a7a7a7;
 	width: 100%;
